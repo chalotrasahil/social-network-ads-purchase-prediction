@@ -38,6 +38,12 @@ Target variable:
 - 
 ## Project Structure
 
+social-network-ads-purchase-prediction
+│
+├── Social_Network_ads_project_final.ipynb
+├── Social_Network_Ads.csv
+├── README.md
+└── LICENSE
 
 ## Objective
 The goal of this project is to demonstrate how machine learning can be used to analyze customer demographics and predict purchasing behavior for marketing analytics.
