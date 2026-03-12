@@ -35,7 +35,7 @@ Target variable:
 - Scikit-learn  
 - Matplotlib  
 - Seaborn
-- 
+
 ## Project Structure
 
 social-network-ads-purchase-prediction
